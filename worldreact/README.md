@@ -1,6 +1,7 @@
 ## before anything
 > [!CAUTION]
 > make sure to change the "serverAdrs" variable in all three files "GamePage.js", "LoginPage.js" and "RegisterPage.js" to your new server address.
+
 > [!NOTE]  
 > after running the command `run build` in "worldreact" folder by copying the files of the "build" folder to the "build" folder inside the "server" folder. then by running the command `node index.js` in the "server" folder ,the "React" project Runs too
 # Getting Started with Create React App
