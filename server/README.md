@@ -10,6 +10,7 @@ This project was bootstrapped with [express](https://github.com/expressjs/expres
 In the project directory, you can run:
 
 ### `node index.js`
+this command runs the express server of application
 
 ## Learn More
 
