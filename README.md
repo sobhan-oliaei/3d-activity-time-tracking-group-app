@@ -2,6 +2,10 @@
 
 This web application is designed to record and compare the positive activity time of the members of a group with each other, which is designed like a 3D game (with characters, etc.).
 
+## Installation and run
+
+For information about installing and running this project, please read the readme files inside the "server" and "worldreact" folders.
+
 ## images
 <p align="center">
 <img src="https://uploadkon.ir/uploads/ef9502_24Screenshot-20230523-122550-Samsung-Internet.jpg" width="400" >
@@ -12,7 +16,3 @@ This web application is designed to record and compare the positive activity tim
 
 <img src="https://uploadkon.ir/uploads/6ed202_24Screenshot-20230416-014113-Samsung-Internet.jpg" width="400" >
 </p>
-
-## Installation and run
-
-For information about installing and running this project, please read the readme files inside the "server" and "worldreact" folders.
