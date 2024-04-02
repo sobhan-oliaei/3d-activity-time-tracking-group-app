@@ -1,5 +1,5 @@
 ## before anything
-> [!NOTE]  
+> [!WARNING]
 > after running the command `run build` in "worldreact" folder by copying the files of the "build" folder to the "build" folder inside the "server" folder. then by running the command `node index.js` in the "server" folder ,the "React" project Runs too
 # Getting Started with express js in nodejs
 
