@@ -1,7 +1,7 @@
 ## before anything
 First, make sure to change the "serverAdrs" variable in all three files "GamePage.js", "LoginPage.js" and "RegisterPage.js" to your new server address.
 
-* Be careful that after running the command `run build` by copying the files of the "build" folder to the "build" folder inside the "server" folder by running the command `node index.js` in the "server" folder of the "React" project. Runs
+* Be careful that after running the command `run build` by copying the files of the "build" folder to the "build" folder inside the "server" folder by running the command `node index.js` in the "server" folder ,the "React" project Runs too
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
